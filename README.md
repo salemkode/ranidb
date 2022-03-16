@@ -9,13 +9,13 @@ Add `ranidb` to your existing Node.js project.
 with npm :
 
 ```bash
-npm i ranidb
+npm i @salemkode/ranidb
 ```
 
 or with yarn:
 
 ```bash
-yarn add ranidb
+yarn add @salemkode/ranidb
 ```
 
 ## Used with node

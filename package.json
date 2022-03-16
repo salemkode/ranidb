@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/waseeld/ranidb.git"
+    "url": "https://github.com/salemkode/ranidb.git"
   },
   "keywords": [
     "ranidb",
     "json",
     "db"
   ],
-  "author": "Waseel AL-mahri",
-  "license": "ISC",
+  "author": "Salemkode",
+  "license": "GPL-2.0-only",
   "dependencies": {
     "chai": "^4.3.4",
     "fs": "0.0.1-security",

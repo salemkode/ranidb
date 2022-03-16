@@ -101,13 +101,13 @@ class Ranidb {
       _id = randomBytes(16).toString("hex");
     } else if (this.idType === 3) _id = lastId;
 
-    if (_id != undefined) {
+    if (_id) {
       data = {
+        _id,
         ...data,
       };
     } else {
       data = {
-        _id: _id,
         ...data,
       };
     }
